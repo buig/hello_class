@@ -25,6 +25,9 @@ def lucas():
 def daniel():
     print("Yepa, soy dani, berserk reader de confianza 𒉭")
 
+def sergio():
+    print("Hola soy Sergio, compañero de DAW")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -35,4 +38,5 @@ if __name__ == "__main__":
     adrian()
     lucas()
     daniel()
+    sergio()
     
