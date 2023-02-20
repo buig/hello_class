@@ -23,7 +23,7 @@ def lucas():
     print("Hola soy Lucas, vuestro compañero de DAW.")
 
 def daniel():
-    print("Hola soy Daniel, compañero de DAW")
+    print("Yepa, soy dani, berserk reader de confianza 𒉭")
 
 if __name__ == "__main__":
     print("Say hello to class ")
