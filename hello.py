@@ -28,6 +28,9 @@ def daniel():
 def sergio():
     print("Hola soy Sergio, compañero de DAW")
 
+def marc():
+    print("Hola soy Marc, compañero de DAW")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -39,4 +42,4 @@ if __name__ == "__main__":
     lucas()
     daniel()
     sergio()
-    
+    marc()
