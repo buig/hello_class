@@ -35,7 +35,7 @@ def morray():
     print("Hola soy morray, vuestro compañero de DAW.")    
 
 def julio():
-    print("Hola, soy Julio, compañero de DAW")
+    print("Hola, soy Julio, compañero de DAW. Quitarme la vida se balancea entre chiste o no")
 
 if __name__ == "__main__":
     print("Say hello to class ")
